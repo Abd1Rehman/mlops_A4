@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# MLflow
+mlruns/
+
+# DVC (optional)
+.dvc/
+
+# VSCode
+.vscode/
+.idea/
